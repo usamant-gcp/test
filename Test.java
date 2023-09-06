@@ -5,7 +5,6 @@ class Test
     }
     public static void main(String []args)
     {
-        System.out.println("My First Java Program.");
-        System.out.println("What is my name?");
+        System.out.println("bc" + 2 + 3);
     }
 };
